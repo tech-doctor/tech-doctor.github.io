@@ -1,0 +1,22 @@
+.first{
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+}
+.second{
+    text-align: center;
+}
+
+.pics{
+    background-image: url(Interconversion1.jpg);
+    padding: 90px;
+}
+
+body{
+    background-color: silver;
+}
+.row5{
+    background-color: lightblue;
+    padding: 60px 0px 30px;
+    text-align: center;
+}

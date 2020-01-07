@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+
+.btn-succes{
+    background-color: coral;
+    color: white;
+}
+.row4{
+    background-image: url(Cloud%201.jpeg);
+    padding: 100px 0 250px;
+}
+
+
+
+
+
+
+
+
+#heading{
+    background-color: black;   
+}
+h2{
+    color: blue;
+   /** padding: 60px 40px 20px 200px;*/
+}
+a{
+    color: white;
+    
+    
+}
+
+#bottom{
+    background-color: skyblue;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+.top{
+    padding: 20px 40px 5px 100px;
+}
+h1{
+    color: navy;
+}
+.row5{
+    background-color: lightblue;
+    padding: 60px 0 30px;
+}
+
+
+.row3{
+   color: brown;
+}

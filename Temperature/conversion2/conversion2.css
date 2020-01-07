@@ -1,0 +1,34 @@
+.convert-back{
+    text-align: right;}
+
+#button1{ background-color: rosybrown;
+    color: black;
+}
+
+.second{
+    text-align: center;
+}
+.first{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+
+#button{
+    background-color: rosybrown;
+    color: black;
+}
+
+.pics{
+    background-image: url(Interconversion2.jpg);
+    padding: 110px;
+}
+
+body{
+    background-color: silver;
+}
+.row5{
+    background-color: lightblue;
+    padding: 60px 0 30px;
+    text-align: center;
+}
